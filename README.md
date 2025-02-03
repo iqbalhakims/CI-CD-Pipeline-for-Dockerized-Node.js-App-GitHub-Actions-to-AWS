@@ -16,4 +16,8 @@
 
 ![Image](https://github.com/user-attachments/assets/43c4df83-3e05-422b-88f8-2c3966c5275d)
 
+### ssh to ec2 and install docker  ###
+
+![Image](https://github.com/user-attachments/assets/70ed15b2-3bc0-4f7c-b0c5-6812454e2fbc)
+
 
