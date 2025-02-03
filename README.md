@@ -13,6 +13,10 @@
 ![Image](https://github.com/user-attachments/assets/2e90ded5-ae4e-4633-9677-6acd7163a396)
 
 
+### Start the server or docker compose up ###
+![Image](https://github.com/user-attachments/assets/2c1fdc7c-656d-4697-8293-98d2ebadd28f)
+
+
 ### now we got some ouput from the process ###
 
 
